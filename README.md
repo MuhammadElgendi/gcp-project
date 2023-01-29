@@ -1,7 +1,7 @@
 # gcp-project
 # GCP-Final
 
-###  :
+###  :Build image from the app code by docker file by:
 
   * $ docker build -t gcp-python .
   * $ docker tag iti-app eu.gcr.io/gcp-project-376206/iti-app
